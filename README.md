@@ -1,3 +1,20 @@
+
+<style>
+div.hoge{
+clear:both;
+float:left;
+width:200px;
+}
+</style>
+
+<div class="hoge">１．あ</div><div>：ＡＢＣ</div>
+<div class="hoge">２．abc</div><div>：ＡＢＣ</div>
+<div class="hoge">３．あいう</div><div>：ＡＢＣ</div>
+<div class="hoge">４．えお</div><div>：ＡＢＣ</div>
+
+
+
+
 研究・開発理念…わが技術で社会に問いかける<br>
 <br>
 <br>
