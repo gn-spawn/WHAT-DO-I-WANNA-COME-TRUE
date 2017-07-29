@@ -4,7 +4,7 @@
 
 
 研究・開発したいこと･･･活用可能性が高く、<br>
-┃&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;社会に何かを訴えかけるきっかけと成り得る技術
+┃&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;社会に何かを訴えかけるきっかけと成り得る技術<br>
 ┣3Dプリント
 ┃│　└※1
 ┃│
